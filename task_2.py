@@ -1,5 +1,4 @@
 import time
-import re
 from hyperloglog import HyperLogLog
 import json
 
